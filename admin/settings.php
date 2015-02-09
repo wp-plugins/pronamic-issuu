@@ -17,4 +17,7 @@ flush_rewrite_rules();
 
 		<?php submit_button(); ?>
 	</form>
+	
+	<?php Pronamic_Issuu_Plugin::admin_include( 'plugins.php' ); ?>
+	<?php Pronamic_Issuu_Plugin::admin_include( 'pronamic.php' ); ?>
 </div>

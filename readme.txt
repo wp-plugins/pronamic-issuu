@@ -1,21 +1,29 @@
 === Pronamic Issuu ===
 Contributors: pronamic, remcotolsma
-Tags: pronamic, issuu, pdf, document
+Tags: pronamic, issuu, pdf, document, deprecated
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 0.1
+Stable tag: 1.0.1
 
-Easily integrate Issuu documents into WordPress.
+Deprecated — Easily integrate Issuu documents into WordPress.
 
 == Description ==
 
-...
+> This plugin is deprecated so Pronamic wil no longer support and maintain this plugin.
+>
+> If you want to help maintain the plugin, fork it on [GitHub](https://github.com/pronamic/wp-pronamic-issuu) and open pull requests.
 
 
 == Installation ==
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your 
 WordPress installation and then activate the Plugin from Plugins page.
+
+
+== Capabilities ==
+
+*	read_issuu_documents
+*	read_private_issuu_documents
 
 
 == Screenshots ==
@@ -25,6 +33,9 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Changelog ==
 
+= 1.0.1 =
+*	Added an deprecated notice.
+
 = 1.0 =
 *	Initial release
 
@@ -33,8 +44,6 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 *	[Pronamic](http://pronamic.eu/)
 *	[Remco Tolsma](http://remcotolsma.nl/)
-*	[Online styleguide van iDEAL](http://huisstijl.idealdesk.com/) 
-*	[iDEAL Professional - SSL Certificaten](http://www.ideal-simulator.nl/ideal-professional-ssl-certificaten.html)
 *	[Markdown's Syntax Documentation][markdown syntax]
 
 [markdown syntax]: http://daringfireball.net/projects/markdown/syntax
